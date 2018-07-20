@@ -1,6 +1,5 @@
 import praw
 import details
-import json
 import markovify
 from time import sleep
 
